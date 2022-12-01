@@ -1,0 +1,8 @@
+prefix=/home/omer/catkin_ws/install
+
+Name: tams_apriltags
+Description: Description of tams_apriltags
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

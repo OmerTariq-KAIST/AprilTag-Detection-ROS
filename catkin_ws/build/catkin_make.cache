@@ -1,0 +1,2 @@
+gazebo_model_velocity_plugin:gazebo_ros_l515/realsense2_description:gazebo_ros_l515/realsense_gazebo_plugin:pepper_robot/pepper_bringup:pepper_robot/pepper_description:pepper_robot/pepper_robot:pepper_robot/pepper_sensors_py:pepper_virtual/pepper_control:pepper_virtual/pepper_gazebo_plugin:rqt_robot_steering:rqt_virtual_joystick:tams_apriltags
+-DCATKIN_DEVEL_PREFIX=/home/omer/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/omer/catkin_ws/install -G Unix Makefiles
